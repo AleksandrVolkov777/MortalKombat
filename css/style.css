@@ -118,7 +118,7 @@ a {
 	.app {
 		height: auto;
 		padding-bottom: 400px;
-		background-image: url(../img/cover-image.jpg) no-repeat bottom center / 300px;
+		background-image: url('img/cover-image.jpg') no-repeat bottom center / 300px;
 	}
 	.film {
 		padding-top: 2%;
