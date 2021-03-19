@@ -152,4 +152,7 @@ a {
 	.button {
 		margin-bottom: 10px;
 	}
+	.tags {
+		font-size: 14px;
+	}
 }
