@@ -28,6 +28,7 @@ a {
 	width: 40px;
 	height: 40px;
 	border-radius: 50%;
+	object-fit: cover;
 }
 
 .user {
@@ -44,7 +45,6 @@ a {
 
 .app {
 	background: linear-gradient(90deg, #010202 0%, #010202 41%, rgba(1, 2, 2, 0.2) 90.9%);
-	/* url(../img/cover-image.jpg) no-repeat center right; */
 	min-height: 100vh;
 	color: #ffffff;
 }
